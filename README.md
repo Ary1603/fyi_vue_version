@@ -10,6 +10,9 @@ Examen FYI realizado con el framework Vue + Vite.
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
+## Tasks
+![image](https://github.com/Ary1603/fyi_react_version/assets/44470568/3ed395ef-b856-428b-a198-eb9f855b212e)
+
 ## Project Setup
 
 ```sh
